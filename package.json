@@ -1,0 +1,23 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "this is the first project of 2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCoolGuysClub/nodeproject.git"
+  },
+  "author": "David WEi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCoolGuysClub/nodeproject/issues"
+  },
+  "homepage": "https://github.com/TheCoolGuysClub/nodeproject#readme",
+  "dependencies": {
+    "yargs": "^10.1.1"
+  },
+  "devDependencies": {}
+}
